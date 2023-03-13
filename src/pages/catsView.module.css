@@ -1,0 +1,12 @@
+.listContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.listActionsBottom {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin: 40px 0;
+}

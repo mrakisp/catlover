@@ -1,0 +1,12 @@
+.infoList li {
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.noTopMargins li > div {
+  margin-top: 0;
+}
+
+.link {
+  cursor: pointer;
+}

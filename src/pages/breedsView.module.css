@@ -1,0 +1,36 @@
+.wrapper {
+  margin: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.listContainer img {
+  max-height: 250px;
+  cursor: pointer;
+  display: flex;
+}
+
+.listItem {
+  box-shadow: 0px 0px 16px -1px;
+  margin: 15px;
+  display: flex;
+}
+
+.dialogContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.listItem img {
+  width: 200px;
+  display: flex;
+}
+
+.listActionsBottom {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin: 40px 0;
+}

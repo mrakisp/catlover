@@ -1,0 +1,13 @@
+.cardWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px;
+  box-shadow: 0px 0px 16px -1px;
+}
+
+.cardWrapper img {
+  max-height: 200px;
+  display: flex;
+}
